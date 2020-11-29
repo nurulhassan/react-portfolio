@@ -1,14 +1,14 @@
 ---
 date: '3'
-title: 'OctoProfile'
-cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+title: 'Renaissance 2019'
+cover: './demo.PNG'
+github: 'https://github.com/Renaissance-2019'
+external: 'http://jecrcrenaissance.in/'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - HTML5
+  - CSS3
+  - JavaScript
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repository stats with data visualizations of your top languages and stars. Sort through your top repos by number of stars, forks, and size.
+Renaissance is the Annual Techno-Cultural Youth Fest Of Jaipur Engineering College & Research Center.

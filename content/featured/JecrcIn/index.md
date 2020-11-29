@@ -1,15 +1,19 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Official JECRC Foundation Portal following N.B.A Format'
+cover: './demo.PNG'
+github: 'https://github.com/nurulhassan/'
+external: 'https://jecrc.in/'
 tech:
-  - React
-  - Node.js
-  - Express
-  - Spotify Web API
+  - PHP
+  - HTML5
+  - JavaScript
+  - Bootstrap
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A Formal College Website should be there accordint to National Board of Accreditation.
+Built a JECRC.in is a Portal for JECRC Foundation according to National Board of
+accreditation (N.B.A) integrated with different department Information with their
+detailed description of placement statics, academics details, research and
+publications. 

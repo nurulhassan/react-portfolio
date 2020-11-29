@@ -47,9 +47,9 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
+  const one = <h1>Hi there, my name is</h1>;
   const two = <h2 className="big-heading">Nurul Hassan.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = <h3 className="big-heading">I love to build things for the web.</h3>;
   const four = (
     <p>
       I'm a Full Stack engineer based in Jaipur, IN specializing in building (and occasionally
