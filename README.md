@@ -9,9 +9,9 @@
 </p>
 <p align="center">
   Previous iterations:
-  <a href="https://github.com/nurulhassan/v1" target="_blank">v1</a>,
-  <a href="https://github.com/nurulhassan/v2" target="_blank">v2</a>,
-  <a href="https://github.com/nurulhassan/nurulhassan.github.io" target="_blank">v3</a>
+  <a href="https://nurulhassan.github.io/v1" target="_blank">v1</a>,
+  <a href="https://nurulhassan.github.io/v2" target="_blank">v2</a>,
+  <a href="https://nurulhassan.github.io" target="_blank">v3</a>
 </p>
 <div align="center">
   <img alt="Preview" src="src/images/v4.PNG" width="100%" />
