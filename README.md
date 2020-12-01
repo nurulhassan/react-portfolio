@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="../images/logo.png" width="100" />
+  <img alt="Logo" src="src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   nurulhassan.tech - v4
@@ -14,7 +14,7 @@
   <a href="https://github.com/nurulhassan/nurulhassan.github.io" target="_blank">v3</a>
 </p>
 <div align="center">
-  <img alt="Preview" src="../images/v4.PNG" width="100" />
+  <img alt="Preview" src="src/images/v4.PNG" width="100" />
 </div>
 
 ## 🚨 Forking this repo (please read!)
