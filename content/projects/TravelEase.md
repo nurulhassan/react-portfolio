@@ -1,8 +1,8 @@
 ---
 date: '2020-04-15'
 title: 'TravelEase - Academic Project'
-github: ''
-external: 'https://cssh.northeastern.edu/'
+github: 'https://github.com/nurulhassan/TravelEase'
+external: 'https://nurulhassan.github.io/TravelEase/'
 tech:
   - HTML5
   - Google API

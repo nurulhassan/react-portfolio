@@ -1,7 +1,7 @@
 ---
 date: '2018-03-01'
 title: 'Official Portal of JECRC Foundation'
-github: 'https://github.com/crowddj/crowddj-react'
+github: 'https://github.com/nurulhassan/'
 external: 'https://jecrc.in/'
 tech:
   - HTML5/CSS3

@@ -1,7 +1,7 @@
 ---
 date: '2018-03-01'
 title: 'Thinking lenghty Registration process for IT Hackathon'
-github: 'https://github.com/crowddj/crowddj-react'
+github: ''
 external: 'https://jecrchackathon.in/ithackathon'
 tech:
   - HTML5

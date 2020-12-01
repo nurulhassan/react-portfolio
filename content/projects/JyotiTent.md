@@ -2,7 +2,7 @@
 date: '2017-12-01'
 title: 'Jyoti Tent Events Portal'
 github: ''
-external: 'https://jyotitenthouse.com/'
+external: 'https://jyottenthouse.tech/'
 tech:
   - HTML5 
   - CSS3

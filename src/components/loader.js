@@ -44,8 +44,8 @@ const Loader = ({ finishLoading }) => {
 
     loader.add({
       targets: '#logo path',
-      delay: 300,
-      duration: 1200,
+      delay: 100,
+      duration: 900,
       easing: 'easeInOutQuart',
       strokeDashoffset: [anime.setDashoffset, 0],
     });

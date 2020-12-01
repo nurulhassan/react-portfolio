@@ -1,8 +1,8 @@
 ---
 date: '2018-01-01'
 title: 'Bhamashah Wallet App'
-github: 'https://github.com/bchiang7/fontipsums/'
-external: 'http://bchiang7.github.io/fontipsums/'
+github: ''
+external: ''
 tech:
   - Ionic
   - SCSS

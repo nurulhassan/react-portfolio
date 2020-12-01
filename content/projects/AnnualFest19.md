@@ -1,8 +1,8 @@
 ---
 date: '2019-05-01'
 title: 'Annual Cultural Fest - JECRC Renaissance 2019 '
-github: ''
-external: 'https://blistabloc.com/'
+github: 'https://github.com/Renaissance-2019'
+external: 'http://jecrcrenaissance.in/'
 tech:
   - HTML5
   - CSS3

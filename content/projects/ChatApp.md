@@ -1,8 +1,8 @@
 ---
-date: '2015-10-01'
+date: '2018-10-01'
 title: 'Messaging Application'
-github: ''
-external: 'https://us.mullenlowe.com/work/humankinda/'
+github: 'https://github.com/nurulhassan/chatappnode'
+external: ''
 tech:
   - Node.js
   - HTML5

@@ -1,7 +1,7 @@
 ---
 date: '2018-12-27'
 title: 'HindMech Portal'
-github: 'https://github.com/bchiang7/halcyon-site'
+github: ''
 external: 'http://hindmech.com/'
 tech:
   - HTML5

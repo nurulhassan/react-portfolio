@@ -1,8 +1,8 @@
 ---
 date: '2017-03-01'
 title: 'Conference Portal for JECRC Foundation'
-github: 'https://github.com/crowddj/crowddj-react'
-external: ''
+github: ''
+external: 'https://jecrcconference.in/'
 tech:
   - HTML5
   - CSS3

@@ -1,8 +1,8 @@
 ---
 date: '2020-07-16'
 title: 'Parking Management - Academic Project'
-github: ''
-external: 'https://cssh.northeastern.edu/'
+github: 'https://github.com/nurulhassan/park_minor'
+external: 'https://nurulhassan.github.io/park_minor/'
 tech:
   - Angular
   - Google API

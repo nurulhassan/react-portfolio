@@ -141,7 +141,7 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hey there! I'm Nurul Hassan, a Full Stack Developer based in Jaipur, IN.</p>
+            <p>Hey there! I'm Nurul Hassan, a Front End Developer based in Jaipur, IN.</p>
 
             <p>
               I enjoy creating things that live on the internet, whether that be websites,

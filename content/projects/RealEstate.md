@@ -1,8 +1,8 @@
 ---
 date: '2019-12-29'
 title: 'Real Estate Web App'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
-external: 'https://keep-vue.netlify.com/'
+github: 'https://github.com/nurulhassan/estate'
+external: ''
 tech:
   - Angular 7
   - Firebase
