@@ -14,7 +14,7 @@
   <a href="https://github.com/nurulhassan/nurulhassan.github.io" target="_blank">v3</a>
 </p>
 <div align="center">
-  <img alt="Preview" src="src/images/v4.PNG" width="100" />
+  <img alt="Preview" src="src/images/v4.PNG" width="100%" />
 </div>
 
 ## 🚨 Forking this repo (please read!)
