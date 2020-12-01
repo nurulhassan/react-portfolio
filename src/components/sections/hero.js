@@ -52,7 +52,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I love to build things for the web.</h3>;
   const four = (
     <p>
-      I'm a Full Stack engineer based in Jaipur, IN specializing in building (and occasionally
+      I'm a Frontend Engineer based in Jaipur, IN specializing in building (and occasionally
       designing) exceptional websites, applications, and everything in between.
     </p>
   );

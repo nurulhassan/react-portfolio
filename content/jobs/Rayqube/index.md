@@ -1,7 +1,7 @@
 ---
 date: '2016-12-21'
 title: 'Web Application Developer'
-company: 'Rayqube Future Tech.'
+company: 'Rayqube Future Tech'
 location: 'Jaipur, IN'
 range: 'July - December 2018'
 url: 'https://www.rayqube.com/'

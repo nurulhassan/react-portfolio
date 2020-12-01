@@ -168,8 +168,6 @@ const ArchivePage = ({ location, data }) => {
                     date,
                     github,
                     external,
-                    ios,
-                    android,
                     title,
                     tech,
                     company,
@@ -250,8 +248,6 @@ export const pageQuery = graphql`
             tech
             github
             external
-            ios
-            android
             company
           }
           html

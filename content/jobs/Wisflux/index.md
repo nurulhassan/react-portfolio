@@ -1,7 +1,7 @@
 ---
 date: '2015-12-21'
 title: 'MEAN Stack Developer'
-company: 'Wisflux Edtech Labs.'
+company: 'Wisflux Tech Labs'
 location: 'Jaipur, IN'
 range: 'May - June 2019'
 url: 'https://wisflux.com/'

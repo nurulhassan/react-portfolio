@@ -116,7 +116,7 @@ const StyledPic = styled.div`
 const About = () => {
   const data = useStaticQuery(graphql`
     query {
-      avatar: file(sourceInstanceName: { eq: "images" }, relativePath: { eq: "me.JPG" }) {
+      avatar: file(sourceInstanceName: { eq: "images" }, relativePath: { eq: "me.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 500, traceSVG: { color: "#64ffda" }) {
             ...GatsbyImageSharpFluid_withWebp_tracedSVG
@@ -150,10 +150,9 @@ const About = () => {
             </p>
 
             <p>
-              When graduating from{' '}
-              <a href="https://jecrc.in/">Jecrc Foundation</a>, I joined the
-              engineering team at <a href="https://wisflux.com/">Wisflux Edtech Lab.</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+              When graduating from <a href="https://jecrc.in/">Jecrc Foundation</a>, I joined the
+              engineering team at <a href="https://wisflux.com/">Wisflux Edtech Lab.</a> where I
+              work on a wide variety of interesting and meaningful projects on a daily basis.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
