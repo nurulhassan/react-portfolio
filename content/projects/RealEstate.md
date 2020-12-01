@@ -8,7 +8,7 @@ tech:
   - Firebase
   - Typescript
   - SASS
-company:'Wisflux Tech Lab'
+company: 'Wisflux Tech Lab'
 showInProjects: true
 ---
 

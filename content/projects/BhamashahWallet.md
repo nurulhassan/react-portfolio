@@ -9,7 +9,7 @@ tech:
   - HTML5
   - Javascript
   - Node.js
-company:'Rayqube Future Tech'
+company: 'Rayqube Future Tech'
 showInProjects: true
 ---
 

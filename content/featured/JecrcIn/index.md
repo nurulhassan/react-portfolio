@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Official JECRC Foundation Portal following N.B.A Format'
+title: 'Official Portal For JECRC'
 cover: './demo.PNG'
 github: 'https://github.com/nurulhassan/'
 external: 'https://jecrc.in/'

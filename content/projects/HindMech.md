@@ -9,7 +9,7 @@ tech:
   - Javascript
   - Bootstrap
   - jQuery
-company:'HindMech Incorporation'
+company: 'HindMech Incorporation'
 showInProjects: false
 ---
 

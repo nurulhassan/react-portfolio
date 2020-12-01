@@ -1,20 +1,20 @@
 var plugins = [{
-      plugin: require('G:/Projects/v4/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('G:/Projects/react-portfolio/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('G:/Projects/v4/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
+      plugin: require('G:/Projects/react-portfolio/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('G:/Projects/v4/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
+      plugin: require('G:/Projects/react-portfolio/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('G:/Projects/v4/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('G:/Projects/react-portfolio/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"BrittanyChiang","short_name":"BrittanyChiang","start_url":"/","background_color":"#020c1b","theme_color":"#0a192f","display":"minimal-ui","icon":"src/images/logo.png"},
     },{
-      plugin: require('G:/Projects/v4/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('G:/Projects/react-portfolio/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('G:/Projects/v4/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      plugin: require('G:/Projects/react-portfolio/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[],"trackingId":"UA-45666519-2"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
