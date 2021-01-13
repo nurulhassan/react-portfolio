@@ -5,8 +5,8 @@ module.exports = {
     title: 'Nurul Hassan',
     description:
       'Nurul Hassan is a Full Stack Developer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    siteUrl: 'https://nurulhassan.tech', // No trailing slash allowed!
+    image: '/v4.PNG', // Path to your image you placed in the 'static' folder
     twitterUsername: 'Nurul Hassan',
   },
   plugins: [
@@ -19,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'NurulHassan',
+        short_name: 'NurulHassan',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
